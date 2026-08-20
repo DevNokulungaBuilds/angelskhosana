@@ -10,7 +10,7 @@ Escape the Maze: Enhanced Edition A first-person 3D maze game built with raw Web
 
 Circuit Dash A neon endless runner on HTML5 Canvas. Procedurally generated obstacle spacing, difficulty that scales with survival time, and persistent high scores via localStorage.
 
-More in progress — some of my coursework-heavy projects stay private since they include school-specific data, but this repo grows as things become shareable.
+More in progress some of my coursework-heavy projects stay private since they include school-specific data, but this repo grows as things become shareable.
 
 Tech
 
@@ -25,4 +25,5 @@ FNB App Academy — Software Development Certificate, second round under UJ Busi
 
 Reach me
 Email: angelskhosana80@gmail.com
+
 Location: Cape Town, South Africa
