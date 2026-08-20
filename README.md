@@ -1,53 +1,28 @@
-# Hello World! 👋 I'm Angel Nokulunga Skhosana
+Angel Nokulunga Skhosana
 
-**_Second-Year Computer Engineering Student @ CPUT | Java Developer | FNB App Academy Alumni_**
+Third-year Computer Engineering student (BTech) at CPUT, also training in graphic design and UI/UX through the Academy of Digital Art, and completing a second round of FNB App Academy under the UJ Business School.
 
-## 🚀 About Me
+I write my own shaders instead of reaching for a game engine, and my own render loops instead of a physics library — not because it's the fast way to ship, but because it's the way I actually learn how the underlying systems work. That same instinct is pulling me toward UI/UX now: understanding why an interface works, not just styling one.
 
-I'm a passionate **Computer Engineering student** at CPUT building my expertise in software development. I started my coding journey in **2024 with C programming** using CodeBlocks, and now in **2025 I'm focused on Java development** with NetBeans. As an **FNB App Academy alumnus**, I've also gained exposure to C++, Python, and web technologies.
+Projects
 
-- 🎓 **Second-Year Computer Engineering Student** at CPUT (Started 2024)
-- 🎯 **Matriculated 2023** - Building my tech career fresh out of high school
-- 💼 **FNB App Academy Certificate** - Gained full-stack development exposure
-- 🔭 **2025 Focus:** Mastering Java development and advanced programming concepts
-- 🌱 **Currently learning:** Java OOP, Data Structures, and Software Engineering principles
-- 📫 **Reach me:** 240575911@mycput.ac.za
-- ⚡ **Fun fact:** I'm part of the new generation of South African developers!
+Escape the Maze: Enhanced Edition A first-person 3D maze game built with raw WebGL — no engine. Hand-written vertex/fragment shaders, Phong lighting, AABB collision detection, AI enemy patrol/chase behavior, and a five-level progression system.
 
-## 💻 Tech Stack
+Circuit Dash A neon endless runner on HTML5 Canvas. Procedurally generated obstacle spacing, difficulty that scales with survival time, and persistent high scores via localStorage.
 
-### **🟢 Core Languages**
-C • Java • Python • C++ • HTML
+More in progress — some of my coursework-heavy projects stay private since they include school-specific data, but this repo grows as things become shareable.
 
-### **🛠️ Development Tools**
-CodeBlocks • NetBeans • Git • GitHub • VS Code
+Tech
 
-### **🎯 Currently Mastering**
-Java Object-Oriented Programming • Data Structures • Algorithms
+Java C C++ Python JavaScript WebGL / GLSL HTML/CSS
 
-## 📚 Academic Journey
+Design: Graphic design, UI/UX (Academy of Digital Art) Tools: Git, GitHub, VS Code, NetBeans
 
-**2023** → Matriculated 🎓  
-**2024** → Started Computer Engineering @ CPUT | Learned C Programming | Created GitHub  
-**2025** → Second Year | Java Focus | FNB App Academy | Multi-language exposure
+Background
+BTech Computer Engineering, Cape Peninsula University of Technology — diploma 2024–2026, now in third year
+Academy of Digital Art (ADA) — fast track graphic design program, UI/UX focus
+FNB App Academy — Software Development Certificate, second round under UJ Business School (2026)
 
-## 📊 My GitHub Activity
-
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelskhosana&show_icons=true&theme=default)
-
-## 🎓 Education
-
-- **Computer Engineering** - Cape Peninsula University of Technology (2024-Present)
-- **FNB App Academy** - Software Development Certificate
-- **Matriculated 2023**
-
-## 📫 Connect With Me
-
-- **Email:** 240575911@mycput.ac.za
-- **GitHub:** github.com/angelskhosana
-- **Location:** Cape Town, South Africa
-
----
-
-⭐️ **From Angel Nokulunga Skhosana**  
-*"From matriculant to developer, building my future one commit at a time!"*
+Reach me
+Email: angelskhosana80@gmail.com
+Location: Cape Town, South Africa
